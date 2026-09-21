@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Northline Manual",
+      "hasCanvas": false,
+      "bodyTextLen": 1296,
+      "bodyTextHash": "959484bb7288b6f64b17bb4480d75a760c8f6f2d7c4672ce08ae488e09756d60",
+      "bodyTextPrefix": "N Northline Manual Manual Studio Live site CONTENTS MANUAL Start",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Northline Manual",
+      "hasCanvas": false,
+      "bodyTextLen": 1227,
+      "bodyTextHash": "8f35c1fbdeec022b4bfed08d0f4ce36e7fa7b9cea771a3959c6781d287d60377",
+      "bodyTextPrefix": "N Northline CONTENTS Start here What a VA site needs How to prom",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
